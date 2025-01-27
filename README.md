@@ -1,1 +1,1 @@
-# Applied-Machine-Learning
+Rock-Image-Classification
